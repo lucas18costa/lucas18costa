@@ -1,4 +1,5 @@
-![lucas18costa's Stats](https://github-readme-stats.vercel.app/api?username=lucas18costa&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true)
+### 📊 Estatísticas de Lucas Silva Costa  
+![lucas18costa's Stats](https://github-readme-stats.vercel.app/api?username=Lucas&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true)
 
 Area de Conhecimento:
 
